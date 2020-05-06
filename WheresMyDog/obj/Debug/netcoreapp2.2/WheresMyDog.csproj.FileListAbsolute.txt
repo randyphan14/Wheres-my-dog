@@ -1,0 +1,11 @@
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\bin\Debug\netcoreapp2.2\WheresMyDog.deps.json
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\bin\Debug\netcoreapp2.2\WheresMyDog.runtimeconfig.json
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\bin\Debug\netcoreapp2.2\WheresMyDog.runtimeconfig.dev.json
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\bin\Debug\netcoreapp2.2\WheresMyDog.dll
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\bin\Debug\netcoreapp2.2\WheresMyDog.pdb
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.csprojAssemblyReference.cache
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.csproj.CoreCompileInputs.cache
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.AssemblyInfoInputs.cache
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.AssemblyInfo.cs
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.dll
+C:\Users\randy\Documents\Code\CodingDojo\C Sharp\Hackathon\WheresMyDog\obj\Debug\netcoreapp2.2\WheresMyDog.pdb
